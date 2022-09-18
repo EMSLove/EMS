@@ -3,7 +3,7 @@
 EMS is a cryptocurrency, which is accepted for investment and funding, and is used for green fields on the roofs to produce more oxygen and decrease the amount of CO2 in the air. 
 
 # Is EMS interesting?
-EMS is selected by nations, the most vulnerable to climate change, in line with GHO Strategic Principles (The Green House Roof Solution. 
+EMS is selected by nations, the most vulnerable to climate change, in line with GHO Strategic Principles (The Green House Roof Solution: No.2-2022-0026, May 26, 2022). 
 
 # Does EMS include a White Paper?
 Yes.
@@ -13,3 +13,7 @@ A White Paper for EMS was first documented in April 23, 2021 and recently revise
 The research for GHO and EMS has started since 2018. The research results and relevant updates can be found at https://t.me/emsaction.
 
 WISH you success in ENS Quizz!
+
+
+# Community:
+[EMS Community](https://gitter.im/EMS-ction/community)
